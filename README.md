@@ -1,6 +1,6 @@
 # Welcome to My Repository!!
 
-## This is a Markdown Previewer Project on React!!
+## This is a Drum Machine Project on React!!
 
 ### The project is hosted on Netlify : https://drummachinebyom.netlify.app/
 
